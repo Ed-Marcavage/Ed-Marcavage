@@ -1,7 +1,10 @@
-### Hi there 👋
+<h1><img src="https://user-images.githubusercontent.com/61299527/149001641-aa808bc7-aad9-4742-87b8-943381c131a0.png" width ="70">Welcome to my Github!</h1>
+<img align="right" width="250" height="250" src="https://user-images.githubusercontent.com/61299527/148986758-e487a387-e528-4d15-a535-67b1fa1ebfdd.png">
+
+
 
 <!--
-**Ed-Marcavage/Ed-Marcavage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**edward-marcavage/edward-marcavage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +17,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Programming Languages
+[![Python](https://img.shields.io/badge/-Python-14354C?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)]()
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1E)](https://www.javascript.com/)
+
+## Frameworks and Library
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=ffffff)](https://pandas.pydata.org/)
+[![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=ffffff)](https://numpy.org/)
+
+## Electronics 
+[![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-pi&logoColor=ffffff)](https://www.raspberrypi.org/)
+
+## Where to find me
+<p><a href="https://github.com/Ed-Marcavage" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/EdMarcavage" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ed-marcavage-ab7701170/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a 
