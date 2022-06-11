@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ### Programming Languages
 [![Python](https://img.shields.io/badge/-Python-14354C?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)]()
-[![Solidity](https://img.shields.io/badge/-Solidity-150458?style=for-the-badge&logoColor=ffffff)]()
-[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)]()
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)]
+[![Solidity](https://img.shields.io/badge/-Solidity-150458?style=for-the-badge&logoColor=ffffff)](https://docs.soliditylang.org/en/v0.8.14/)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)]
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1E)](https://www.javascript.com/)
 
 ### Development Tools
