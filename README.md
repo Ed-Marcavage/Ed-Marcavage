@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 [![Solidity](https://img.shields.io/badge/-Solidity-150458?style=for-the-badge&logoColor=ffffff)](https://docs.soliditylang.org/en/v0.8.14/)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)]()
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1E)](https://www.javascript.com/)
+<a href="https://docs.soliditylang.org/en/latest/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="solidity"/> </a>
 
 ### Development Tools
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
