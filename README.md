@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 [![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=Visual-studio-code)](https://code.visualstudio.com/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=ffffff)](https://jupyter.org/)
 
-### Hardware 
+### Electronics 
 [![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-pi&logoColor=ffffff)](https://www.raspberrypi.org/)
 
 ### Where to find me
