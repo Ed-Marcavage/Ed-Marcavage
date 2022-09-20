@@ -1,4 +1,4 @@
-<h1><img src="https://user-images.githubusercontent.com/61299527/149001641-aa808bc7-aad9-4742-87b8-943381c131a0.png" width ="70">Welcome to my Github!</h1>
+<h1><img src="https://user-images.githubusercontent.com/61299527/191357005-48345535-17e3-493f-b5b8-2ca45ecde5bf.png" width ="70">Welcome to my Github!</h1>
 <img align="right" width="300" height="300" src="https://user-images.githubusercontent.com/61299527/149050059-606b6d74-54af-40b7-949f-072149aee186.png">
 
 
