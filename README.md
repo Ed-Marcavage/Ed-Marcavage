@@ -4,11 +4,12 @@ In Philly, moving to NYC or SF — in NY most weeks for Luma events, and at SF T
 
 Most of my GitHub activity over the past ~2 years is in private repos at
 [Audix](https://github.com/AudixAI) — a coding agent for smart-contract security:
-agent-driven fuzzing + formal methods for software verification. Core goes public as V1 ships.
+agent-driven fuzzing + formal methods for software verification - will OSS over time.
 
-Day job: Senior Software Engineer at GE Aerospace.
+Senior Software Engineer at GE Aerospace.
 
 **Now**
+- **MS CS, Georgia Tech** (Expected, Dec '26)
 - **Audix** — Solidity security agent: invariant discovery & formal verification
   (Foundry, Medusa, Echidna, Halmos, Certora)
 - **DeFi evals for Harbor** (WIP) — agentic eval dataset: six task families (yields, wallet
