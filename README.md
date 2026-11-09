@@ -1,7 +1,5 @@
 ## Ed Marcavage
 
-In Philly, but in NY most weeks for Luma events, and at SF Tech Week 2026.
-
 Most of my GitHub activity over the past ~2 years is in private repos at
 [Audix](https://github.com/AudixAI) — a coding agent for smart-contract security:
 agent-driven fuzzing + formal methods for software verification - will OSS over time.
